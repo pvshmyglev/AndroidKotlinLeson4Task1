@@ -59,18 +59,6 @@ class MainActivity : AppCompatActivity() {
 
             }
 
-            root.setOnClickListener {
-
-                println("root.OnClickListener")
-
-            }
-
-            imageViewAvatar.setOnClickListener {
-
-                println("imageViewAvatar.OnClickListener")
-
-            }
-
         }
 
     }
